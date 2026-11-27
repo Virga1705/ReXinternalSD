@@ -1,0 +1,22 @@
+<!-- app/src/main/res/values-night/styles.xml -->
+<resources>
+    <style name="AppTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#7B9AA6</item>
+        <item name="colorOnPrimary">#0F1A1E</item>
+        <item name="android:statusBarColor">#121516</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+        <!-- Custom semantic colors (Dark) -->
+        <item name="screenBackground">#121516</item>
+        <item name="cardSurface">#1C2123</item>
+        <item name="dividerColor">#2A3134</item>
+        <item name="titleAccentColor">#9CB6C0</item>
+        <item name="sectionTitleColor">#8AA8B3</item>
+        <item name="textPrimaryColor">#EAEFEE</item>
+        <item name="textSecondaryColor">#A3B0B5</item>
+        <item name="bottomBarBackground">#202629</item>
+        <item name="bottomBarStroke">#2F383C</item>
+        <item name="bottomNavTint">#9CB6C0</item>
+        <item name="bottomNavText">#C2D2D8</item>
+    </style>
+</resources>

@@ -1,0 +1,14 @@
+<!-- app/src/main/res/values/attrs.xml -->
+<resources>
+    <attr name="screenBackground" format="color" />
+    <attr name="cardSurface" format="color" />
+    <attr name="dividerColor" format="color" />
+    <attr name="titleAccentColor" format="color" />
+    <attr name="sectionTitleColor" format="color" />
+    <attr name="textPrimaryColor" format="color" />
+    <attr name="textSecondaryColor" format="color" />
+    <attr name="bottomBarBackground" format="color" />
+    <attr name="bottomBarStroke" format="color" />
+    <attr name="bottomNavTint" format="color" />
+    <attr name="bottomNavText" format="color" />
+</resources>
